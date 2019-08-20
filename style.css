@@ -10,6 +10,10 @@ body {
   -ms-user-select: none;
 }
 
+h1{
+    text-align: center;
+    font-size: 2em;
+}
 .circle {
   position: absolute;
   width: 150px;
